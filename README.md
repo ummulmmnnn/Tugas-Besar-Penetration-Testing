@@ -8,6 +8,6 @@ Dokumen ini berisi skenario, dokumentasi pendukung dan laporan akhir dari tugas 
 1. Passive Reconnaissance: crt.sh, Wapplyzer, cURL, Google Dorking, LinkedIn.
 2. Active Reconnasissance: Nmap, VulnOS, Wireshark.
 ## Link Video Penjelasan
------
+https://youtu.be/A8eVy-OCed4?si=L22Z8qONyQx2lx8x
 ## Disusun Oleh
 5-JK-A UMMUL MU'MININ [105841117323]
